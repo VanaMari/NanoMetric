@@ -210,3 +210,7 @@ Durante a execução:
 - Todos os experimentos foram realizados com **imagens 256×256 px**, obtidas por recortes das micrografias originais.  
 - Os pesos armazenados correspondem a diferentes **estratégias de recorte** e **modelos (MI e MII)** empregados na análise comparativa.  
 - O arquivo `NanoMetric.py` pode ser utilizado para reconstruir e carregar qualquer um dos modelos cujos pesos estão disponíveis nas pastas correspondentes.
+
+## Referências
+
+Para informações detalhadas, consulte o artigo completo na [Revista de Informática Teórica e Aplicada](http://dx.doi.org/10.22456/2175-2745.XXXX).
