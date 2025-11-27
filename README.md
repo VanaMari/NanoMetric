@@ -1,4 +1,4 @@
-# 📁 TESE_Ivania_01.12.25
+# 📁 NanoMetric
 
 Este repositório contém os arquivos, bancos de dados e modelos utilizados na pesquisa de doutorado voltada à **segmentação de imagens de microscopia eletrônica de varredura (MEV)** de **óxido de zinco (ZnO)** e **óxido de grafeno (GO)** por meio de redes neurais convolucionais do tipo **U-Net**, com ênfase em técnicas de **aprendizado com poucos exemplos (Few-Shot Learning)** e **ajuste fino (Fine-Tuning)**.
 
