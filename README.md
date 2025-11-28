@@ -182,7 +182,7 @@ Durante a execução:
 
 ---
 
-### 7️⃣ Pipeline resumido
+### 7️⃣ Protocolo de medição resumido
 
 1. **Pré-processamento:** leitura e normalização das imagens.  
 2. **Segmentação (U-Net):** geração de máscaras binárias.  
